@@ -2,24 +2,42 @@
     "questions": [
         {
             "id": 1,
-            "description": "Questão teste api",
-            "explanation": "Expanation text",
-            "ted_plus": "ted plus explanation",
+            "description": "A toxina botulínica vem sendo cada vez mais usada por dermatologistas,
+            especialmente para tratamento cosmético facial. Sobre suas propriedades e mecanismo de
+            ação, pode-se dizer que:",
+            "explanation": "Apesar de a toxina botulínica tipo A ser, de fato, a mais potente, há outros subtipos já
+            conhecidos: A, B, C1, C2, D, E, F, G [1, 2]. Sua ação promove paralisia flácida do músculo
+            através do bloqueio pré-sináptico da liberação de acetilcolina dentro da junção neuromuscular
+            [1, 2]. Ao longo de 4 a 6 meses o efeito é perdido gradativamente devido a novos brotamentos
+            axonais colaterais [1, 2]. Uma análise estrutural da porção biologicamente ativa da toxina
+            botulínica permite a identificação de duas cadeias, uma leve (50 kDa) e uma pesada (100 kDa),
+            conectadas por uma ponte dissulfídica; entretanto, trata-se de uma exotoxina [1]. Alternativa C
+            correta e responde à questão.",
+            "ted_plus": "TED+ Toxina botulínica na gestação e em outros cenários especiais
+            Apesar de não haver comprovação de prejuízo ao concepto, gravidez e lactação permanecem
+            dentre as contraindicações para o uso da toxina botulínica [1, 2]. Outras contraindicações são:
+            doenças neuromusculares (como miastenia gravis), doenças psiquiátricas, expressão de
+            expectativas irreais sobre os resultados, infecção no local da aplicação, uso concomitante de
+            anticoagulantes, antibióticos aminoglicosídios, fármacos bloqueadores de canais de cálcio e
+            hipersensibilidade aos componentes da fórmula [1, 2].",
             "choices": [
                 {
-                    "text": "Choice1",
+                    "text": "Há 6 subtipos de toxina botulínica, sendo a mais potente a do tipo A.",
                     "is_correct": false
                 },
                 {
-                    "text": "Choice2",
+                    "text": "É uma neurotoxina produzida pelo Clostridium botulinum que age na terminação motora pós-
+                    sináptica, causando paralisia flácida do músculo.",
                     "is_correct": false
                 },
                 {
-                    "text": "Choice3",
+                    "text": "A reversão da inatividade motora obtida com o tratamento ocorre por brotamento
+                    axonal colateral.",
                     "is_correct": true
                 },
                 {
-                    "text": "Choice3",
+                    "text": "A porção biologicamente ativa da endotoxina é formada por duas cadeias unidas por uma
+                    ponte dissulfídica.",
                     "is_correct": false
                 }
             ]
@@ -53,7 +71,7 @@
             "description": "Questão teste api",
             "explanation": "Expanation text",
             "ted_plus": "ted plus explanation",
-            "choices": [
+            "choices":[
                 {
                     "text": "Choice1",
                     "is_correct": false
