@@ -2,66 +2,48 @@
     "questions": [
         {
             "id": 1,
-            "description": "A toxina botulínica vem sendo cada vez mais usada por dermatologistas,
-            especialmente para tratamento cosmético facial. Sobre suas propriedades e mecanismo de
-            ação, pode-se dizer que:",
-            "explanation": "Apesar de a toxina botulínica tipo A ser, de fato, a mais potente, há outros subtipos já
-            conhecidos: A, B, C1, C2, D, E, F, G [1, 2]. Sua ação promove paralisia flácida do músculo
-            através do bloqueio pré-sináptico da liberação de acetilcolina dentro da junção neuromuscular
-            [1, 2]. Ao longo de 4 a 6 meses o efeito é perdido gradativamente devido a novos brotamentos
-            axonais colaterais [1, 2]. Uma análise estrutural da porção biologicamente ativa da toxina
-            botulínica permite a identificação de duas cadeias, uma leve (50 kDa) e uma pesada (100 kDa),
-            conectadas por uma ponte dissulfídica; entretanto, trata-se de uma exotoxina [1]. Alternativa C
-            correta e responde à questão.",
-            "ted_plus": "TED+ Toxina botulínica na gestação e em outros cenários especiais
-            Apesar de não haver comprovação de prejuízo ao concepto, gravidez e lactação permanecem
-            dentre as contraindicações para o uso da toxina botulínica [1, 2]. Outras contraindicações são:
-            doenças neuromusculares (como miastenia gravis), doenças psiquiátricas, expressão de
-            expectativas irreais sobre os resultados, infecção no local da aplicação, uso concomitante de
-            anticoagulantes, antibióticos aminoglicosídios, fármacos bloqueadores de canais de cálcio e
-            hipersensibilidade aos componentes da fórmula [1, 2].",
+            "description": "A toxina botulínica vem sendo cada vez mais usada por dermatologistas, especialmente para tratamento cosmético facial. Sobre suas propriedades e mecanismo de ação, pode-se dizer que:",
+            "explanation": "Apesar de a toxina botulínica tipo A ser, de fato, a mais potente, há outros subtipos jáconhecidos: A, B, C1, C2, D, E, F, G [1, 2]. Sua ação promove paralisia flácida do músculo através do bloqueio pré-sináptico da liberação de acetilcolina dentro da junção neuromuscular [1, 2]. Ao longo de 4 a 6 meses o efeito é perdido gradativamente devido a novos brotamentos axonais colaterais [1, 2]. Uma análise estrutural da porção biologicamente ativa da toxina botulínica permite a identificação de duas cadeias, uma leve (50 kDa) e uma pesada (100 kDa), conectadas por uma ponte dissulfídica; entretanto, trata-se de uma exotoxina [1]. Alternativa C correta e responde à questão.",
+            "ted_plus": "Toxina botulínica na gestação e em outros cenários especiais Apesar de não haver comprovação de prejuízo ao concepto, gravidez e lactação permanecem dentre as contraindicações para o uso da toxina botulínica [1, 2]. Outras contraindicações são: doenças neuromusculares (como miastenia gravis), doenças psiquiátricas, expressão de expectativas irreais sobre os resultados, infecção no local da aplicação, uso concomitante de anticoagulantes, antibióticos aminoglicosídios, fármacos bloqueadores de canais de cálcio e hipersensibilidade aos componentes da fórmula [1, 2].",
             "choices": [
                 {
                     "text": "Há 6 subtipos de toxina botulínica, sendo a mais potente a do tipo A.",
                     "is_correct": false
                 },
                 {
-                    "text": "É uma neurotoxina produzida pelo Clostridium botulinum que age na terminação motora pós-
-                    sináptica, causando paralisia flácida do músculo.",
+                    "text": "É uma neurotoxina produzida pelo Clostridium botulinum que age na terminação motora pós-sináptica, causando paralisia flácida do músculo.",
                     "is_correct": false
                 },
                 {
-                    "text": "A reversão da inatividade motora obtida com o tratamento ocorre por brotamento
-                    axonal colateral.",
+                    "text": "A reversão da inatividade motora obtida com o tratamento ocorre por brotamento axonal colateral.",
                     "is_correct": true
                 },
                 {
-                    "text": "A porção biologicamente ativa da endotoxina é formada por duas cadeias unidas por uma
-                    ponte dissulfídica.",
+                    "text": "A porção biologicamente ativa da endotoxina é formada por duas cadeias unidas por uma ponte dissulfídica.",
                     "is_correct": false
                 }
             ]
         },
         {
             "id": 2,
-            "description": "Questão teste api",
-            "explanation": "Expanation text",
-            "ted_plus": "ted plus explanation",
+            "description": "Em relação ao uso da toxina botulínica tipo A na face e no pescoço, assinale a alternativa incorreta:",
+            "explanation": "A injeção de toxina botulínica na pálpebra inferior com o objetivo de aumentar a abertura ocular é direcionada ao bloqueio da porção tragal do músculo orbicular ocular [1, 2]. A técnica descreve a aplicação de 1 a 2 UI de Botox® ou 3 a 6 UI de Dysport® na linha mediopupilar, próximo aos cílios [1]. Ao tratar as rugas nasais (bunny lines) é possível que por erro de dose/diluição ou imperícia técnica a porção alar do musculo elevador do lábio superior seja acometida, alterando a expressão facial perioral [1]. A aplicação de toxina botulínica para tratamento cervical anterior (platisma) é idealmente realizada fora das regiões laterais do pescoço (assertiva C incorreta), sob risco de paresia do músculo esternocleidomastóideo [1]. Por fim, vale a pena frisar que mesmo o tratamento cervical anterior com doses levemente elevadas (60 UI Botox®) pode produzir disfagia importante, como diz a letra D [2]. Exceto pela alternativa C, todas as demais estão corretas.",
+            "ted_plus": "Complicações do tratamento cervical anterior com toxina botulínica O tratamento da região cervical anterior para suavização da ação do platisma deve seguir alguns princípios importantes, a fim de minimizar complicações potencialmente graves e debilitantes. As injeções de toxina devem ser feitas em planos superficiais, sempre com o músculo bem demarcado (contraído), evitando-se a aplicação em regiões cervicais laterais [1]. A dose máxima não deve exceder 30-40 UI de Botox® [1, 2]. Pode ocorrer dificuldade para elevação da cabeça, dispneia e distúrbios da deglutição [1]. Disfagia grave com necessidade de cateterização nasogástrica por impossibilidade de deglutir já foi relatada com doses pouco superiores às aqui referidas [2].",
             "choices": [
                 {
-                    "text": "Choice1",
+                    "text": "A aplicação de 2 UI de toxina botulínica na pálpebra inferior (justaciliar) na linha mediopupilar pode promover maior abertura ocular.",
                     "is_correct": false
                 },
                 {
-                    "text": "Choice2",
+                    "text": "A paralisia da parte transversa do músculo nasal pode cursar com modificações da dinâmica perioral",
                     "is_correct": false
                 },
                 {
-                    "text": "Choice3",
+                    "text": "O tratamento de feixes platismais verticais é idealmente realizado nas regiões laterais do pescoço, a fim de evitar distúrbios da deglutição",
                     "is_correct": true
                 },
                 {
-                    "text": "Choice3",
+                    "text": "Doses moderadamente elevadas de toxina botulínica tipo A para tratamento cervical anterior podem produzir disfagia grave, inclusive com necessidade de cateterização nasogástrica transitória.",
                     "is_correct": false
                 }
             ]
